@@ -57,7 +57,6 @@ Il risultato viene infine arrotondato all'intero più vicino e limitato rigidame
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="screenshots/scan_screen.png" width="350" alt="Schermata di Scansione" />
   <img src="screenshots/result_screen.png" width="350" alt="Dettaglio Prodotto" />
 </p>
 
