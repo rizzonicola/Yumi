@@ -119,5 +119,3 @@ Yumi is a transparent project built on the work of great open-source communities
 *Yumi is an independent application and is not affiliated in any way with Yuka or Open Food Facts.*
 
 ```
-
-```
