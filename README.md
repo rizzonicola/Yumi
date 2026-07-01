@@ -57,8 +57,7 @@ The result is then rounded to the nearest integer and strictly capped within the
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/screenshots
-/result_screen.png" width="350" alt="Product Detail Screen" />
+  <img src="assets/screenshots/result_screen.png" width="350" alt="Product Detail Screen" />
 </p>
 
 ## 🚀 Getting Started (Development)
