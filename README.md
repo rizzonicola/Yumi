@@ -74,7 +74,7 @@ L'applicazione è sviluppata in **Flutter (Material 3)** ed è compatibile con A
    ```bash
    git clone [https://github.com/tuo-username/yumi.git](https://github.com/tuo-username/yumi.git)
 
-```
+
 
 2. Entra nella cartella del progetto:
 ```bash
